@@ -1,5 +1,5 @@
 # Merge parameters of batchnorm and scale layer into convolution
-File definition：  
+Files description：  
 
 (1) merge_bn.py  
 Code for mergence
